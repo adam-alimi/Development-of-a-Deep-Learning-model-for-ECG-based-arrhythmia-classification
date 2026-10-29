@@ -55,6 +55,6 @@ Developed by **Adam Alimi (INSAT, Tunisia)**.
 
 I’m a computer engineering student at INSAT, passionate about deep learning, LLMs, and building AI-powered solutions. I focus on deploying intelligent models in real-world apps using Flutter and Firebase.
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/adam-alimi/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/adam-alimi-99ba02284/)
 - 💻 [GitHub](https://github.com/adam-alimi)
 
